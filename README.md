@@ -1,7 +1,7 @@
 # Actividad--LeerArchivo
 ## Conteo de articulos 
 
-Se requiere de la realizaciòn de un conteo de articulos de un almacen. Se cuenta con 2 archivos de diferentes apartados que cuentan con 3 listas de articulos varios y la cantidad de cada uno, tomando en cuenta que los articulos se pueden repetir dentro de la misma lista. 
+Se requiere de la realizaciòn de un conteo de articulos de un almacen. Se cuenta con 2 almacenes que cuentan con 3 listas de articulos varios y la cantidad de cada uno, tomando en cuenta que los articulos se pueden repetir dentro de la misma lista. 
 A continuación se muestra el ejemplo de uno de los contenidos:
 
 
@@ -19,7 +19,7 @@ Para la práctica se necesita de la cración de un menú inicial, en donde se de
 
 Se debera realizar dos diferentes consultas en base a los datos de la lista
 
-  1. Consulta de "Conteo por artículos", se deberan mostrar los articulos
+  1. Consulta de "Conteo por artículos", se deberan mostrar los articulos:
      - Enlistados las unidades totales, es decir, contando todos los artículos de los 2 archivos existentes.
      - Enlistando solo el total de una lista en específico.
 ```
@@ -38,7 +38,10 @@ Cantidad: 12
 
 ```
 
-  2. Consulta de "Total de artículos", se deberan mostrar la cantidad de articulos eligiendo de que si se quiere consultar los artículos de todas las listas o de una lista en específico.
+  2. Consulta de "Total de artículos", se deberan mostrar la cantidad de articulos:
+     - Enlistados las unidades totales, es decir, contando todos los artículos de los 2 archivos existentes.
+     - Enlistando solo el total de una lista en específico.
+  
      
 ```
 Lista Almacen 1
